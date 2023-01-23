@@ -1,11 +1,16 @@
 {
   "name": "a11y-meetup",
   "private": true,
+  "slidev": {
+    "colorSchema": "dark",
+    "highlighter": "shiki"
+  },
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
   },
+
   "dependencies": {
     "@slidev/cli": "^0.38.3",
     "@slidev/theme-default": "*",

@@ -1,6 +1,5 @@
 # Accessibility
 
-## TBD
 
 <!--
 Ask question: Who has heard about Accessibility? 

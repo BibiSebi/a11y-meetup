@@ -1,11 +1,11 @@
 ---
 title: Accessibility
 theme: geist
-highlighter: prisma
-
-layout: cover
+highlighter: shiki
+selectable: true
+layout: center
 lineNumbers: false
-
+monaco: 'dev'
 drawings:
   enabled: true
   persist: false
@@ -13,6 +13,7 @@ drawings:
 # use UnoCSS
 css: unocss
 colorSchema: 'dark'
+
 src: ./pages/cover.md
 ---
 

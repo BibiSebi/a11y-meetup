@@ -1,4 +1,4 @@
-# Accessibility is Diverse
+# Accessibility is diverse
 
 <!--
 4 User Personas

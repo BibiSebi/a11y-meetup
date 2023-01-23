@@ -1,4 +1,4 @@
-# Why should I implement accessible websites?
+# Why?
 - Inclusiveness
 - Laws
 - SEO
