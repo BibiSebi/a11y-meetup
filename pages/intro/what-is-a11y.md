@@ -1,7 +1,6 @@
 # What is A11y?
 
 - context dependent
-
 - **1** in **6** people worldwide
 
 
