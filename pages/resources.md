@@ -4,3 +4,7 @@
 - 🔗 [Deque Blogs](https://www.deque.com/blog/)
 - 🔗 [Smashing Magazine Accessibility](https://www.smashingmagazine.com/category/accessibility/)
 - 🔗 [Manuel Matuzovic](https://www.matuzo.at/)
+- 🔗 [HTML Hell](https://www.htmhell.dev/)
+- 🔗 [A11y myths](https://a11ymyths.com/)
+- 🔗 [Accessibility in the times of Headless](https://www.smashingmagazine.com/2022/09/accessibility-times-headless/)
+- 🔗 [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/patterns/)

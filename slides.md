@@ -3,7 +3,7 @@ title: Accessibility
 theme: geist
 highlighter: shiki
 selectable: true
-layout: center
+
 lineNumbers: false
 monaco: 'dev'
 drawings:
@@ -14,15 +14,17 @@ drawings:
 css: unocss
 colorSchema: 'dark'
 
-src: ./pages/cover.md
----
-
----
 src: ./pages/about-me.md
 ---
 
 ---
-src: ./pages/intro/what-is-a11y.md
+src: ./pages/cover.md
+---
+
+
+
+---
+src: ./pages/intro/a11y-myths.md
 ---
 
 ---
@@ -35,6 +37,14 @@ src: ./pages/intro/lifecycle.md
 
 ---
 src: ./pages/web/general.md
+---
+
+---
+src: ./pages/web/WCAG.md
+---
+
+---
+src: ./pages/web/ARIA.md
 ---
 
 ---

@@ -3,7 +3,6 @@ layout: image-right
 class: picture-content
 ---
 # About me
-Bibiana Sebestianova (picture)
 
 
 <span class="flex"> <div class="w-6 flex mr-2">![Storyblok logo](https://emoji.slack-edge.com/T3UANJMK7/sb/cb01bd133d483b66.png)</div>
