@@ -10,7 +10,7 @@ title: Code Example
     <h3>
         <button aria-expanded="false" aria-controls="section1" id="accordion1">
             <span>Title</span>
-        </button
+        </button>
     </h3>
         
     <div id="section1" role="region" aria-labelledby="accordion1" hidden>

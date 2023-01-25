@@ -4,7 +4,6 @@ class: picture-content
 ---
 # About me
 
-
 <span class="flex"> <div class="w-6 flex mr-2">![Storyblok logo](https://emoji.slack-edge.com/T3UANJMK7/sb/cb01bd133d483b66.png)</div>
 Fullstack Engineer at Storyblok<div class="w-6 flex ml-2">![Storyblok logo](https://emoji.slack-edge.com/T3UANJMK7/sb/cb01bd133d483b66.png)</div>
 </span>
