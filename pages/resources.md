@@ -1,7 +1,9 @@
 # Resources
-- 🔗 [Accessibility Checklist](https://accessibility-for-teams.com/checklist)
-- 🔗 [Udacity Course](https://www.udacity.com/course/web-accessibility--ud891)
+- 🔗 [Vue A11y](https://vue-a11y.com/project/)
+- 🔗 [Vue](https://vuejs.org/guide/best-practices/accessibility.html)
+- 🔗 [Awesome A11y Vue](https://github.com/vue-a11y/awesome-a11y-vue)
 - 🔗 [Deque Blogs](https://www.deque.com/blog/)
+- 🔗 [Udacity Course](https://www.udacity.com/course/web-accessibility--ud891)
 - 🔗 [Smashing Magazine Accessibility](https://www.smashingmagazine.com/category/accessibility/)
 - 🔗 [Manuel Matuzovic](https://www.matuzo.at/)
 - 🔗 [HTML Hell](https://www.htmhell.dev/)

@@ -5,6 +5,7 @@
 - 🖍️ **UI** -  color contrasts, font
 - 🖥️ **Development** - semantic HTML, CSS, JS
 - 🔬 **Testing** - automated and manual
+- ♻️ **Cycle**
 
 
 <!--

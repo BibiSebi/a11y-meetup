@@ -48,6 +48,10 @@ src: ./pages/web/ARIA.md
 ---
 
 ---
+src: ./pages/web/Vue-A11y.md
+---
+
+---
 src: ./pages/web/code-example.md
 ---
 
