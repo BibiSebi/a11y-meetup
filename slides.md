@@ -21,7 +21,9 @@ src: ./pages/about-me.md
 src: ./pages/cover.md
 ---
 
-
+---
+src: ./pages/intro/a11y.md
+---
 
 ---
 src: ./pages/intro/a11y-myths.md

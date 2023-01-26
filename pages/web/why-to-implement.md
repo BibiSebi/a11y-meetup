@@ -6,6 +6,6 @@
 - 🚧 Code readability
 
 <!--
-SEO, Laws, inclusiveness, intuitivness, better UX
+SEO, Laws, inclusiveness, intuitiveness, better UX
 https://www.who.int/health-topics/disability#tab=tab_1
 -->

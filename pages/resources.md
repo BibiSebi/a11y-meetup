@@ -1,5 +1,6 @@
 # Resources
 - 🔗 [Vue A11y](https://vue-a11y.com/project/)
+- 🔗 [W3 Web Accessibility Initiative](https://www.w3.org/WAI/fundamentals/)
 - 🔗 [Vue](https://vuejs.org/guide/best-practices/accessibility.html)
 - 🔗 [Awesome A11y Vue](https://github.com/vue-a11y/awesome-a11y-vue)
 - 🔗 [Deque Blogs](https://www.deque.com/blog/)
