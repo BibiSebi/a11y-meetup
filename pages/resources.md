@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./../../assets/example-qr.png
+image: ./../../public/example-qr.png
 ---
 
 # Resources
