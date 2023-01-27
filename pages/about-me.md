@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./../../public/slides-qr.png
+image: ./../../slides-qr.png
 ---
 # About me
 ## Bibiana Sebestianova
