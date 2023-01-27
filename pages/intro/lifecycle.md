@@ -1,4 +1,4 @@
-# When to adopt accessibility?
+# Accessibility Lifecycle
 
 - 🧑‍💼 **Requirement Engineering** - User Stories 
 - 🫂 **UX** - text spacing, content distribution

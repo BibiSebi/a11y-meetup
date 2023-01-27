@@ -1,18 +1,22 @@
 ---
 layout: image-right
-class: picture-content
+image: ./../../assets/slides-qr.png
 ---
 # About me
-
+## Bibiana Sebestianova
 <span class="flex"> <div class="w-6 flex mr-2">![Storyblok logo](https://emoji.slack-edge.com/T3UANJMK7/sb/cb01bd133d483b66.png)</div>
 Fullstack Engineer at Storyblok<div class="w-6 flex ml-2">![Storyblok logo](https://emoji.slack-edge.com/T3UANJMK7/sb/cb01bd133d483b66.png)</div>
 </span>
 
 - 💻 Coding
-- 🃏 Board Games
 - 🍔 Cooking
 - 🤸 Yoga
 
+<br>
+
+<span>Find these slides by scanning the QR Code or visiting 
+<a href='https://vue-a11y-examples.vercel.app'> 🔗https://vue-a11y-examples.vercel.app🔗</a>
+</span>
 
 <div class="abs-br m-6 flex gap-2">
   <a href="www.linkedin.com/in/bibianasebestianova" target="_blank" aria-label="LinkedIn"
@@ -30,5 +34,5 @@ Fullstack Engineer at Storyblok<div class="w-6 flex ml-2">![Storyblok logo](http
 </div>
 
 <!--
-comment
+first encounter with accessibility on interview
 -->

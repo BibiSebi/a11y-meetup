@@ -26,16 +26,29 @@ src: ./pages/intro/a11y.md
 ---
 
 ---
+src: ./pages/intro/general.md
+---
+
+---
 src: ./pages/intro/a11y-myths.md
 ---
 
 ---
-src: ./pages/intro/general.md
+src: ./pages/intro/myths/myth1.md
+---
+
+---
+src: ./pages/intro/myths/myth2.md
 ---
 
 ---
 src: ./pages/intro/lifecycle.md
 ---
+
+---
+src: ./pages/intro/myths/myth3.md
+---
+
 
 ---
 src: ./pages/web/general.md
