@@ -49,13 +49,8 @@ src: ./pages/intro/lifecycle.md
 src: ./pages/intro/myths/myth3.md
 ---
 
-
 ---
 src: ./pages/web/general.md
----
-
----
-src: ./pages/web/WCAG.md
 ---
 
 ---

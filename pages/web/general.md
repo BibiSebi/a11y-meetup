@@ -1,6 +1,5 @@
-# Accessibility inside the Web Realm
-- 🔗 [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
-- 🔗 [QuickRef](https://www.w3.org/WAI/WCAG21/quickref/)
+# Web Accessibility Fundamentals
+- 🔗 [WCAG QuickRef](https://www.w3.org/WAI/WCAG21/quickref/)
 - 🔗 [Authoring Tool Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/atag/)
 - 🔗 [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
