@@ -32,7 +32,3 @@ Fullstack Engineer at Storyblok<div class="w-6 flex ml-2">![Storyblok logo](http
     <carbon-logo-twitter class="text-white" />
   </a>
 </div>
-
-<!--
-first encounter with accessibility on interview
--->
