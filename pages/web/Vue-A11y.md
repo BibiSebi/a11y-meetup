@@ -2,7 +2,7 @@
 layout: center
 ---
 
-# Vue + Accessibility
+# Vue ❤️ Accessibility
 
 
 <!--

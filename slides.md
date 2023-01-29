@@ -22,6 +22,10 @@ src: ./pages/cover.md
 ---
 
 ---
+src: ./pages/agenda.md
+---
+
+---
 src: ./pages/intro/a11y.md
 ---
 
