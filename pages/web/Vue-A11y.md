@@ -6,8 +6,9 @@ layout: center
 
 
 <!--
-As a dev: 
-- tools
+As a dev:
+- WebAIM MILLION
+- accessibility is not necessarily framework dependent
 - improve code (semantic html)
 - check keyboard accessibility
 - use vue-axe-next
