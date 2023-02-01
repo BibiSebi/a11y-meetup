@@ -11,6 +11,4 @@ As a dev:
 - accessibility is not necessarily framework dependent
 - improve code (semantic html)
 - check keyboard accessibility
-- use vue-axe-next
-- use vue announcer
 -->

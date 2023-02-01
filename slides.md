@@ -70,6 +70,10 @@ src: ./pages/web/code-example.md
 ---
 
 ---
+src: ./pages/web/demo.md
+---
+
+---
 src: ./pages/web/tools.md
 ---
 
